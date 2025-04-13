@@ -116,10 +116,10 @@ const TableContent = () => {
 
                 <tfoot className="border-t border-[#F1F1F1]  h-[48px] bg-[#FCFCFC]">
                     <tr className='font-[700] text-[15px] leading-[16px] tracking-[-0.02px] align-middle'>
-                        <td className=' px-[12px]'>Total</td>
+                        <td className=' px-[12px] border-r border-[#F1F1F1]'>Total</td>
                         <td className=' px-[12px] text-center'>₹2,93,132.12</td>
                         <td className=' px-[12px] text-center'>16%</td>
-                        <td className=' px-[12px] text-center'>2931</td>
+                        <td className=' px-[12px] text-center border-r border-[#F1F1F1]'>2931</td>
                         <td className=' px-[12px] text-center'>8.3</td>
                         <td className=' px-[12px] text-center'>61,985</td>
                         <td className=' px-[12px] text-center'>2,61,768</td>
