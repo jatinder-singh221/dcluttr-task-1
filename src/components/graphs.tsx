@@ -75,7 +75,7 @@ const graphContext = {
 
     donotChartOptions: {
         chart: {
-            type: 'pie',
+            type: 'donut',
             sparkline: { enabled: true },
         },
         legend: {
